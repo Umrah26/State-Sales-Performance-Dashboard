@@ -7,7 +7,7 @@ The State Sales Dashboard was developed in Power BI to analyze sales performance
                May had the lowest contribution(1.53%).
   Recommendations:  Run seasonal campaigns after January to maintain sales momentum. 
                Analyze reasons for low sales in April and May.   
-               Introduce discounts and customer engagement offers during low-demand                       months.
+               Introduce discounts and customer engagement offers during low-demand months.
 - Sales Amount by Payment -
   Insights:  Cash, Credit Card, Net Banking and UPI generated almost equal sales.
              Wallet payments showed slightly lower sales contribution.
