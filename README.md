@@ -10,4 +10,6 @@ The State Sales Dashboard was developed in Power BI to analyze sales performance
        ## Dashboard Screenshot
        ![Dashboard Screenshot](state_sales_performance.jpg)
     
-       
+
+       <img width="1481" height="588" alt="image" src="https://github.com/user-attachments/assets/e0b47a16-f32f-4cfd-ba3d-487fe8030bc8" />
+
