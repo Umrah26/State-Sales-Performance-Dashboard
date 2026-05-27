@@ -1,6 +1,6 @@
 The State Sales Dashboard was developed in Power BI to analyze sales performance across different states, product categories, payment methods and months. The dashboard provides a clear understanding of revenue trends and customer purchasing behaviour through interactive visualizations and KPI tracking.                                            # TOOLS USED :   Power BI, DAX, Power Query, Excel Dataset.
  # DASHBOARD ANALYSIS: 
- </> Markdown
+ 
  
 - Monthly Order Quantity Distribution(%)-
   Insights:   January recorded the highest order quantity(45.02%).                                     Order quantity gradually decreased from february to May.
