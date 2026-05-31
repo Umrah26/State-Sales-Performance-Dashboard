@@ -35,8 +35,8 @@ The State Sales Dashboard was developed in Power BI to analyze sales performance
 ### Recommendations:
         - Increase inventory for high-demand products like Mobile and Electronics.
         - Launch promotional offers for low-performing categories.                                
-        - Focus on cross-selling related products to improve revenue.            
-       ## Dashboard Screenshot
+        - Focus on cross-selling related products to improve revenue.
+  ## Dashboard Screenshot
        </> Markdown
        ![Dashboard Screenshot](state_sales_performance.jpg)
     
