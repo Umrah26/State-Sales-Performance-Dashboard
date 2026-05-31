@@ -37,9 +37,9 @@ The State Sales Dashboard was developed in Power BI to analyze sales performance
         - Launch promotional offers for low-performing categories.                                
         - Focus on cross-selling related products to improve revenue.
   ## Dashboard Screenshot
-       </> Markdown
-       ![Dashboard Screenshot](state_sales_performance.jpg)
+       
+   ![Dashboard Screenshot](state_sales_performance.jpg)
     
 
-       <img width="1481" height="588" alt="image" src="https://github.com/user-attachments/assets/e0b47a16-f32f-4cfd-ba3d-487fe8030bc8" />
+  <img width="1481" height="588" alt="image" src="https://github.com/user-attachments/assets/e0b47a16-f32f-4cfd-ba3d-487fe8030bc8" />
 
