@@ -1,6 +1,12 @@
 # State Sales Performance Dashboard
 #### The State Sales Dashboard was developed in Power BI to analyze sales performance across different states, product categories, payment methods and months. The dashboard provides a clear understanding of revenue trends and customer purchasing behaviour through interactive visualizations and KPI tracking.
-## Tools Used :   Power BI, DAX measures, Power Query, Data Visualization, Excel.
+## Tools Used :   Power BI (Power Query, DAX Measures,Data Modelling, Data Visualization), Excel.
+## Created DAX measures for KPI's such as:
+### - Mobile Sales
+    - Totalsales
+## Data Modelling: Star Schema
+### - 1 Fact Table (Fact_Sales) and 4 Dim Tables (Dim_payment , Dim_Product, Dim_State, Dim_SubProduct)
+
   ## Dashboard Screenshot :
   
     
