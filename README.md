@@ -4,7 +4,7 @@
 ### Created DAX such as:
 #### - Mobile Sales
 #### - Totalsales
-### Data Modeling:     ####  Star Schema
+### Data Modeling:      Star Schema
 #### - 1 Fact Table (Fact_Sales) and 4 Dim Tables (Dim_payment , Dim_Product, Dim_State, Dim_SubProduct)
 
   ## Dashboard Screenshot :
