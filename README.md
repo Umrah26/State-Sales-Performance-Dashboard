@@ -9,9 +9,8 @@
 
   ## Dashboard Screenshot :
   
-<https://github.com/Umrah26/State-Sales-Performance-Dashboard/blob/main/State%20sales%20performance.jpg>
 <State sales performance.jpg>
-
+  
 ## Dashboard Analysis: 
 ## 1.  Monthly Order Quantity Distribution(%)-
   ### Insights:  
