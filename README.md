@@ -8,8 +8,8 @@
 #### - 1 Fact Table (Fact_Sales) and 4 Dim Tables (Dim_payment , Dim_Product, Dim_State, Dim_SubProduct)
 
   ## Dashboard Screenshot :
-  
-<State sales performance.jpg>
+  <img width="1530" height="776" alt="State sales performance" src="https://github.com/user-attachments/assets/30c4bbd6-7c19-4752-b7d3-a436df786979" />
+
   
 ## Dashboard Analysis: 
 ## 1.  Monthly Order Quantity Distribution(%)-
